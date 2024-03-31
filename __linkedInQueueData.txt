@@ -1,0 +1,2599 @@
+
+  
+            
+        
+<!----><!---->    
+    <section class="artdeco-card ANXUaYNOmKbwwHgksoAMaRouSNgTirgUjSvnaE" data-member-id="47175208">
+<!---->
+  
+      
+  <div class="live-video-hero-image
+      " style="min-height: 201px; max-height: 201px;">
+    <div class="live-video-hero-image__bg-image">
+      
+            
+    <div tabindex="-1" class="profile-background-image profile-background-image--default">
+<!---->    </div>
+  
+        
+    </div>
+    <div class="live-video-hero-image__live-video">
+<!---->    </div>
+  </div>
+
+      <div class="ph5 pb5">
+        <div class="display-flex">
+          <div class="pv-top-card--photo text-align-left
+              pv-top-card--photo-resize">
+              
+    <div class="pv-top-card__non-self-photo-wrapper ml0">
+      
+    <button class="BMksuWJsDzWNMtSGjKZBxFACcgHITfXM
+        pv-top-card-profile-picture__container display-block
+        pv-top-card__photo presence-entity__image EntityPhoto-circle-9
+        " aria-label="open profile picture" type="button">
+        <img width="200" title="Tyler Engar" src="https://media.licdn.com/dms/image/C4E03AQE-1UgAnS2FQg/profile-displayphoto-shrink_400_400/0/1568756111554?e=1715212800&amp;v=beta&amp;t=G1idT9G9fnzFFZvGNPrNrnYuTnsDqNWDKdw82fG8MsE" height="200" alt="Tyler Engar" id="ember31" class="pv-top-card-profile-picture__image pv-top-card-profile-picture__image--show evi-image ember-view">
+
+<!---->
+    </button>
+  
+      
+
+    <div class="presence-entity__indicator presence-entity__indicator--size-9 presence-indicator
+        hidden
+        presence-indicator--size-9">
+      <span class="visually-hidden">
+          Status is offline
+              </span>
+    </div>
+  
+    </div>
+  
+          </div>
+          <div class="flex-1 flex-column">
+            <div class="ZwiTLdrBLDsSJARwAJJuPgUEhlOPDxsOLyd">
+<!----><!----><!---->            </div>
+          </div>
+        </div>
+
+        
+    <div class="mt2 relative">
+      <div class="GTgQGISZgYgOPycsGBkubXfXOEmiDkObaZxk
+          ">
+        <div class="qSfPipRpfdudFTtqhLTCLqPMEMCqytqKzM">
+          <span tabindex="-1" id="ember32" class="artdeco-hoverable-trigger artdeco-hoverable-trigger--content-placed-bottom artdeco-hoverable-trigger--is-hoverable ember-view">
+            <a href="/in/tyler-engar-57497013/overlay/about-this-profile/" id="ember33" class="ember-view pv-text-details__about-this-profile-entrypoint" aria-label="Tyler has verifications" aria-describedby="artdeco-hoverable-artdeco-gen-42">
+              <h1 class="text-heading-xlarge inline t-24 v-align-middle break-words">Tyler Engar</h1>
+                  <svg role="none" aria-hidden="true" class="v-align-middle t-black--light" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="verified-medium">
+<!---->    
+
+    <use href="#verified-medium" width="24" height="24"></use>
+</svg>
+
+<!---->            </a>
+            <div id="artdeco-gen-42" class="ember-view"><div id="ember35" class="ember-view"></div></div>
+          </span>
+<!----><!----><!----><!---->        </div>
+<!---->        <div class="text-body-medium break-words" data-generated-suggestion-target="urn:li:fsu_profileActionDelegate:-562008256">
+          Seasoned FinTech Attorney
+        </div>
+<!----><!----><!---->      </div>
+        <ul class="pv-text-details__right-panel">
+            <li class="LlKZPRpAULiNZVkGhcBqbEMtUCOjMmnEkBY">
+              <button class="FtQsEGNhaPsgEBiDHqobOVtLUAeZlbkKectdo text-align-left" aria-label="Current company: Akerman LLP. Click to skip to experience card" type="button">
+                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" alt="" id="ember75" class="evi-image ghost-company ember-view xMJseVnSrYxDauBMsOoqLnbGvuvEBWiAWI EntityPhoto-square-1">
+                <span class="YfUbQzhaiQOOpKEMHuGZswHXriDro hoverable-link-text break-words text-body-small t-black">
+                  
+    <div class="MmEqYMvkgEWxQxqwTSnwwPnreyKQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+         inline" style="-webkit-line-clamp:2;" tabindex="-1">
+
+        Akerman LLP
+      
+<!---->    </div>
+  
+                </span>
+              </button>
+            </li>
+<!---->        </ul>
+      <div class="GTgQGISZgYgOPycsGBkubXfXOEmiDkObaZxk mt2">
+        <span class="text-body-small inline t-black--light break-words">
+          Dallas-Fort Worth Metroplex
+        </span>
+          <span class="pv-text-details__separator t-black--light">
+            <a href="/in/tyler-engar-57497013/overlay/contact-info/" id="top-card-text-details-contact-info" class="ember-view link-without-visited-state cursor-pointer text-heading-small inline-block break-words">
+              Contact info
+            </a>
+          </span>
+      </div>
+    </div>
+  
+<!---->
+        
+    <ul class="gSoyppSaQxfAwIHWDHNjgMawxoBbkI pv-top-card--list-bullet">
+<!---->
+        <li class="text-body-small">
+            <span class="t-black--light">
+              <span class="t-bold">500+</span> connections
+            </span>
+        </li>
+    </ul>
+  
+<!---->
+        
+
+  <div class="pv-top-card-v2-ctas
+      ">
+<!---->
+<!---->
+      <div class="MLvdFoKBsmxeFFYZXRYmzOhgPTbnCZwMlcWU
+    
+    ">
+          
+      
+        
+    
+          
+        
+    <button aria-label="Invite Tyler Engar to connect" id="ember76" class="artdeco-button artdeco-button--2 artdeco-button--primary ember-view pvs-profile-actions__action" type="button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="connect-small">
+<!---->    
+
+    <use href="#connect-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Connect
+</span></button>
+  
+      
+        
+
+<!---->  
+
+<!---->
+<!---->
+<!---->  
+  
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+
+    <!---->
+<!---->
+<!---->
+        
+
+    <div class="entry-point profile-action-compose-option">
+      
+    <div></div>
+  
+
+          
+      <button aria-label="Message Tyler" id="ember150" class="artdeco-button artdeco-button--2 artdeco-button--secondary ember-view pvs-profile-actions__action"><!---->
+<span class="artdeco-button__text">
+    Message
+</span></button>
+    
+    </div>
+  
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+
+<!---->
+<!---->
+<!---->
+    <div id="ember79" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-left ember-view">
+  <button aria-expanded="false" aria-label="More actions" id="ember78-profile-overflow-action" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view pvs-profile-actions__action artdeco-button artdeco-button--secondary artdeco-button--muted
+      artdeco-button--2
+      
+      " type="button" tabindex="0">
+      <span>More</span>
+  
+<!----></button>
+  <div tabindex="-1" aria-hidden="true" id="ember81" class="HdOBCCYFSotpfloiAzWWUzVOJeVlBqjIDPXuD artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-left artdeco-dropdown__content--placement-bottom ember-view"><div class="artdeco-dropdown__content-inner">
+  
+    <ul>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+      <div aria-label="Send Tyler Engar’s profile via message" role="button" id="ember82" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view full-width display-flex align-items-center" tabindex="0"><!---->
+    <svg role="none" aria-hidden="true" class="mr3 flex-grow-0 rtl-flip" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="share-linkedin-medium">
+<!---->    
+
+    <use href="#share-linkedin-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="display-flex t-normal flex-1" aria-hidden="true">
+      Send profile in a message
+    </span>
+  </div>
+
+
+
+
+        </li>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+      <div aria-label="Save to PDF" role="button" id="ember83" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view full-width display-flex align-items-center" tabindex="0"><!---->
+      <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="download-medium">
+<!---->    
+
+    <use href="#download-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Save to PDF</span>
+  </div>
+
+
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+        </li>
+        <li>
+          <!---->
+    
+    
+    <div aria-label="Follow Tyler Engar" role="button" id="ember84" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view full-width display-flex align-items-center" tabindex="0"><!---->
+        <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="add-medium">
+<!---->    
+
+    <use href="#add-medium" width="24" height="24"></use>
+</svg>
+
+      <span class="display-flex t-normal flex-1" aria-hidden="true">Follow</span>
+    </div>
+
+
+
+<!---->
+<!---->  
+
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+        </li>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+
+
+        </li>
+        <li>
+          <!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+<!---->
+      <div aria-label="Report or block Tyler Engar’s profile" role="button" id="ember85" class="artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view full-width display-flex align-items-center" tabindex="0"><!---->
+      <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="report-medium">
+<!---->    
+
+    <use href="#report-medium" width="24" height="24"></use>
+</svg>
+
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Report / Block</span>
+  </div>
+
+
+<!---->
+
+<!---->
+<!---->
+
+
+        </li>
+
+        <li>
+          
+    <div role="button" id="ember86" class="display-flex align-items-center full-width  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+        <svg role="none" aria-hidden="true" class="mr3 flex-grow-0" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="signal-notice-medium">
+<!---->    
+
+    <use href="#signal-notice-medium" width="24" height="24"></use>
+</svg>
+
+      <span class="display-flex t-normal flex-1" aria-hidden="true">About this profile</span>
+      <span class="a11y-text" aria-live="off">About this profile</span>
+    </div>
+
+        </li>
+    </ul>
+  
+</div>
+</div>
+</div>
+</div>
+<!----><!---->
+<!---->
+<!---->
+
+  </div>
+
+<!---->
+      </div>
+      <div id="profile-sticky-header-toggle"></div>
+<!---->
+<!---->
+<!---->    
+</section>
+<!---->  
+  
+        
+    
+    
+<!---->
+  
+  
+        
+<!---->
+    
+<!---->  
+  
+        
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+        <section class="artdeco-card pv-profile-card break-words
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="about" class="pv-profile-card__anchor">
+          </div>
+            
+          
+<!---->
+    <div class="GAXeUrsCOBqgOyrngLiVfzCADOoLn">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="pvs-header__title-container">
+              <h2 class="pvs-header__title
+                  text-heading-large">
+                <span aria-hidden="true"><!---->About<!----></span><span class="visually-hidden"><!---->About<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="display-flex ph5 pv3">
+      
+      <div class="
+          display-flex full-width" data-generated-suggestion-target="urn:li:fsu_profileActionDelegate:-731421542">
+        
+          
+      <div class="pv-shared-text-with-see-more full-width t-14 t-normal t-black display-flex align-items-center">
+        
+    <div class="MmEqYMvkgEWxQxqwTSnwwPnreyKQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+         full-width" style="-webkit-line-clamp:4;" tabindex="-1">
+
+        <span aria-hidden="true"><!---->I represent financial institutions, particularly BaaS, FaaS and SaaS companies, in all aspects of regulatory and product, from product development to regulatory enforcement. I advise clients on electronic fund transfers, credit and prepaid card businesses, online and other lending, vendor management and contracting, licensing, among others areas.  As a former in-house head of legal and product / regulatory attorney, I take a practical approach to product and regulatory work using an in-depth understanding of client technology and processes, including limitations, to help them adapt to and meet operational challenges posed by an ever-changing regulatory landscape.<!----></span><span class="visually-hidden"><!---->I represent financial institutions, particularly BaaS, FaaS and SaaS companies, in all aspects of regulatory and product, from product development to regulatory enforcement. I advise clients on electronic fund transfers, credit and prepaid card businesses, online and other lending, vendor management and contracting, licensing, among others areas.  As a former in-house head of legal and product / regulatory attorney, I take a practical approach to product and regulatory work using an in-depth understanding of client technology and processes, including limitations, to help them adapt to and meet operational challenges posed by an ever-changing regulatory landscape.<!----></span>
+
+<!---->    </div>
+  
+      </div>
+  
+      
+      </div>
+  
+    </div>
+  
+  
+            <div>
+                
+          
+    <div class="pvs-list__outer-container">
+<!---->        <ul class="pvs-list
+            
+             pvs-list--padded
+            ">
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          <div class="artdeco-card full-width overflow-hidden display-flex flex-column">
+            
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+      <div class="
+            display-flex" tabindex="-1" aria-hidden="true">
+        
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+        <svg role="none" aria-hidden="true" class="ivm-view-attr__icon--icon  " xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" data-supported-dps="24x24" data-test-icon="skills-medium">
+<!---->    
+
+    <use href="#skills-medium" width="24" height="24"></use>
+</svg>
+
+    </div>
+  
+          </div>
+  
+        
+      </div>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+      <div class="
+              display-flex flex-column full-width">
+        
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 t-bold">
+            <span aria-hidden="true"><!---->Top skills<!----></span><span class="visually-hidden"><!---->Top skills<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              t-14 t-normal">
+            <span aria-hidden="true"><!---->Enforcement • Product Development • Banking • Finance • Regulatory Compliance<!----></span><span class="visually-hidden"><!---->Enforcement • Product Development • Banking • Finance • Regulatory Compliance<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!---->          
+      </div>
+  
+
+<!---->
+            <div class="pvs-entity__tertiary-action-with-vertical-alignment">
+              
+        <div class="">
+          
+      <div class="display-flex justify-flex-end">
+        
+        <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--1 artdeco-button--muted artdeco-button--circle
+            
+            
+            " target="_self" aria-label="Show top skills" id="navigation-overlay-section-top-skills-view-details" href="https://www.linkedin.com/in/tylerengar/overlay/top-skills-details?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAALP1igBtxUMzn-D9KspxK3PKD1hCFv_qy4">
+            <div class="pvs-navigation__icon">
+              <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="arrow-right-small" class="rtl-flip">
+<!---->    
+
+    <use href="#arrow-right-small" width="16" height="16"></use>
+</svg>
+
+            </div>
+<!----><!---->        </a>
+  
+      </div>
+  
+        </div>
+  
+            </div>
+
+        </div>
+
+<!---->      </div>
+    </div>
+  
+          </div>
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+            </div>
+        
+</section>
+
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+        <section class="artdeco-card pv-profile-card break-words
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="content_collections" class="pv-profile-card__anchor">
+          </div>
+            
+          
+<!---->
+    <div class="GAXeUrsCOBqgOyrngLiVfzCADOoLn">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="pvs-header__title-container">
+              <h2 class="pvs-header__title
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Activity<!----></span><span class="visually-hidden"><!---->Activity<!----></span>
+              </h2>
+              <p class="XuAMWdOrqOpEnzIkmmEDZlMNYmLjePRHRzDYGE pvs-header__optional-link text-body-small">
+                <span aria-hidden="true"><!---->518 followers<!----></span><span class="visually-hidden"><!---->518 followers<!----></span>
+              </p>
+<!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+  
+    
+    <div class="mb3">
+      
+        
+      <div class="pv2 ph5">
+        <div class="display-flex white-space-nowrap" role="group" aria-label="Select type of recent activity">
+            
+  <button aria-pressed="true" tabindex="0" class="profile-creator-shared-pills__pill artdeco-pill artdeco-pill--slate artdeco-pill--choice artdeco-pill--3 artdeco-pill--toggle
+      artdeco-pill--selected" id="content-collection-pill-0" type="button">
+    <span class="artdeco-pill__text">Posts</span>
+<!---->  </button>
+
+            
+  <button aria-pressed="false" tabindex="-1" class="profile-creator-shared-pills__pill artdeco-pill artdeco-pill--slate artdeco-pill--choice artdeco-pill--3 artdeco-pill--toggle
+      " id="content-collection-pill-1" type="button">
+    <span class="artdeco-pill__text">Comments</span>
+<!---->  </button>
+
+<!---->        </div>
+      </div>
+  
+      
+    </div>
+    <div class="pv0 ph5">
+      
+          
+      <div>
+        
+              
+    <div class="scaffold-finite-scroll
+    scaffold-finite-scroll--infinite
+     full-width">
+  <!---->
+  
+      <div class="scaffold-finite-scroll__content">
+        
+        <div class="visually-hidden" aria-live="polite">
+          Loaded 1 Posts post
+        </div>
+        <ul class="display-flex flex-wrap list-style-none justify-space-between">
+              <li class="profile-creator-shared-feed-update__mini-container">
+                <div>
+  
+                      <div class="profile-creator-shared-feed-update__mini-update display-flex flex-column
+      ">
+<!---->      
+    
+      <a class="app-aware-link  feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Tyler Engar reposted this • 3w" tabindex="0" href="https://www.linkedin.com/feed/update/urn:li:activity:7162846465491415040?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7162846465491415040%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29" data-test-app-aware-link="">
+        
+      <div class="pt1 ph4 t-12 t-black--light">
+        <span class="feed-mini-update-contextual-description__text">
+          <span aria-hidden="true"><strong><!---->Tyler Engar<!----></strong><span class="white-space-pre"> </span>reposted this • 3w<!----></span><span class="visually-hidden"><!---->3w<!----></span>
+        </span>
+      </div>
+    
+      </a>
+  
+  
+    
+        
+    <div class="display-flex flex-row">
+<!---->      
+      <a class="app-aware-link  pr4 pb2 flex-1
+          pl4
+          pt2 feed-mini-update-optional-navigation-context-wrapper" tabindex="0" aria-label="View full post. I published an opinion piece todayin Law360 on the Consumer Financial Protection Bureau's approach to Earned Wage Access. 
+
+The CFPB may be reconsidering its prior guidance that recognized EWA as a better alternative to more costly loan options.  In doing so, it will have to walk back the pro-EWA treatment from 2017 when it carved some EWA progarms out of the Small Dollar Lending rule and 2020 when they exempted some EWA programs from TILA. 
+
+There's no reason to change course now.  EWA lacks the characteristics of credit and shouldn't be treated as such. And, even if it is credit, optional fees to expedite a transaction have never been finance charges (another requierment to be TILA credit). The CFPB is warranted in continuing to study EWA and its impact on consumers, but wedging it into inapplicable credit rules isn't the answer. 
+
+As my former boss David Silberman and Jennifer Tescher said a few weeks ago &quot;Rather than seeking to force-fit these new types of products into old regulatory paradigms, regulators and legislators should focus on crafting rules that are attuned to the differences between the products in order to ensure that they are designed to advance consumers' financial health.&quot;
+
+https://lnkd.in/gdJmn-7B
+" href="https://www.linkedin.com/feed/update/urn:li:activity:7162846465491415040?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7162846465491415040%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29" data-test-app-aware-link="">
+        
+<!---->        
+    <div class="MmEqYMvkgEWxQxqwTSnwwPnreyKQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+         m0 break-words t-14 t-black" style="-webkit-line-clamp:2;" tabindex="-1">
+
+        <span dir="ltr"><!---->I published an opinion piece todayin<span class="white-space-pre"> </span><a class="app-aware-link " target="_self" href="https://www.linkedin.com/company/law360/" data-test-app-aware-link=""><span><!---->Law360<!----></span></a><span class="white-space-pre"> </span>on the<span class="white-space-pre"> </span><a class="app-aware-link " target="_self" href="https://www.linkedin.com/company/consumer-financial-protection-bureau/" data-test-app-aware-link=""><span><!---->Consumer Financial Protection Bureau<!----></span></a><!---->'s approach to Earned Wage Access.<span class="white-space-pre"> </span><br><br><!---->The CFPB may be reconsidering its prior guidance that recognized EWA as a better alternative to more costly loan options.  In doing so, it will have to walk back the pro-EWA treatment from 2017 when it carved some EWA progarms out of the Small Dollar Lending rule and 2020 when they exempted some EWA programs from TILA.<span class="white-space-pre"> </span><br><br><!---->There's no reason to change course now.  EWA lacks the characteristics of credit and shouldn't be treated as such. And, even if it is credit, optional fees to expedite a transaction have never been finance charges (another requierment to be TILA credit). The CFPB is warranted in continuing to study EWA and its impact on consumers, but wedging it into inapplicable credit rules isn't the answer.<span class="white-space-pre"> </span><br><br><!---->As my former boss<span class="white-space-pre"> </span><a class="app-aware-link " target="_self" href="https://www.linkedin.com/in/ACoAAApfT2ABvb9Nh0JhX6cc97ZDRuNSW3xRQuo" data-test-app-aware-link=""><a href="/in/david-silberman-1143414a/" id="ember114" class="ember-view"><!---->David Silberman<!----></a></a><span class="white-space-pre"> </span>and<span class="white-space-pre"> </span><a class="app-aware-link " target="_self" href="https://www.linkedin.com/in/ACoAAAAlOXwBjkKQywcu-ACRrSVmI9ELEb3TkMM" data-test-app-aware-link=""><a href="/in/jennifertescher/" id="ember115" class="ember-view"><!---->Jennifer Tescher<!----></a></a><span class="white-space-pre"> </span>said a few weeks ago "Rather than seeking to force-fit these new types of products into old regulatory paradigms, regulators and legislators should focus on crafting rules that are attuned to the differences between the products in order to ensure that they are designed to advance consumers' financial health."<!----><br><br><a class="app-aware-link " target="_self" href="https://lnkd.in/gdJmn-7B" data-test-app-aware-link=""><!---->https://lnkd.in/gdJmn-7B<!----></a><br></span>
+
+          <span class="inline-show-more-text__link-container-collapsed">
+<!---->            <button class="inline-show-more-text__button
+                inline-show-more-text__button--light
+                link" aria-expanded="false" role="link" aria-label="Show more, activate to see complete post content" type="button">
+              …show more
+            </button>
+          </span>
+
+<!---->    </div>
+  
+      
+      </a>
+  
+    </div>
+  
+        
+    <div class="feed-mini-update-content__card-wrapper
+        ">
+        
+      <a class="app-aware-link  pr3 feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Image" tabindex="0" href="https://www.linkedin.com/feed/update/urn:li:activity:7162846465491415040?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7162846465491415040%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29" data-test-app-aware-link="">
+        
+          <div class="relative">
+<!---->            
+    <div class="ivm-image-view-model   ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="64" src="https://media.licdn.com/dms/image/sync/D5627AQFmXikz0sRjfQ/articleshare-shrink_160/0/1708956556970?e=1710356400&amp;v=beta&amp;t=1hTN5S3sJMvIrnuMI9D5-f1QKFWNpjG-7dOAKAcyBLA" loading="lazy" height="64" alt="" id="ember116" class="ivm-view-attr__img--centered  feed-mini-update-content__image evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+          </div>
+        
+      </a>
+  
+      
+      <a class="app-aware-link  display-flex flex-1 flex-column overflow-hidden feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. CFPB Shouldn't Ditch Prior Earned Wage Access Precedent - Law360" tabindex="0" href="https://www.linkedin.com/feed/update/urn:li:activity:7162846465491415040?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7162846465491415040%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29" data-test-app-aware-link="">
+        
+<!---->          <div class="display-flex t-14 t-black t-bold
+              pb1">
+            <span class="feed-mini-update-content__single-line-text">
+              <span dir="ltr"><strong><!---->CFPB Shouldn't Ditch Prior Earned Wage Access Precedent - Law360<!----></strong></span>
+            </span>
+          </div>
+          <div class="display-flex t-12 t-black--light">
+            <span class="feed-mini-update-content__single-line-text">
+              <!---->law360.com • Subscription may be required<!---->
+            </span>
+          </div>
+<!---->      
+      </a>
+  
+    </div>
+  
+    
+        <div class="social-details-social-counts
+    
+    
+    
+    
+    
+    
+     b0 m0 ph4 pv3">
+  <div class="display-flex flex-grow-1
+      
+      ">
+    <div class="relative full-width">
+      <ul class="display-flex">
+          <li class="social-details-social-counts__item
+              social-details-social-counts__reactions
+              social-details-social-counts__reactions--left-aligned
+              ">
+            <button aria-label="60 reactions" class="t-black--light display-flex align-items-center social-details-social-counts__count-value
+                t-12
+                hoverable-link-text
+                " type="button">
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--0 reactions-icon__consumption--small data-test-reactions-icon-type-LIKE data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/8ekq8gho1ruaf8i7f86vd1ftt" alt="like" data-test-reactions-icon-type="LIKE" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--1 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-PRAISE data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/b1dl5jk88euc7e9ri50xy5qo8" alt="celebrate" data-test-reactions-icon-type="PRAISE" data-test-reactions-icon-theme="light">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--2 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-INTEREST data-test-reactions-icon-theme-light" src="https://static.licdn.com/aero-v1/sc/h/lhxmwiwoag9qepsh4nc28zus" alt="insightful" data-test-reactions-icon-type="INTEREST" data-test-reactions-icon-theme="light">
+                  <span aria-hidden="true" class="social-details-social-counts__reactions-count">
+60                </span>
+            </button>
+          </li>
+
+          <li class="social-details-social-counts__item
+              social-details-social-counts__comments
+              social-details-social-counts__item--right-aligned
+              ">
+              <button aria-label="4 comments" class="t-black--light social-details-social-counts__count-value
+                  t-12
+                  hoverable-link-text
+                  " role="link" type="button">
+                <span aria-hidden="true">
+                    4 comments
+                                  </span>
+              </button>
+          </li>
+
+<!---->
+<!---->      </ul>
+<!---->    </div>
+  </div>
+<!----></div>
+  <div>
+  <div id="ember117" class="ember-view"><!----></div>
+</div>
+  <div id="ember118" class="ember-view"><!----></div>
+
+<!---->
+
+  </div>
+
+                
+</div>
+
+              </li>
+        </ul>
+      
+      </div>
+    
+
+<!---->
+    <div>
+  
+<!---->    
+</div>
+
+</div>
+  
+                      
+      </div>
+  
+      
+    </div>
+      <footer>
+        <a class="app-aware-link  profile-creator-shared-content-view__footer-action artdeco-button artdeco-button--muted artdeco-button--icon-right artdeco-button--3 artdeco-button--fluid artdeco-button--tertiary" href="https://www.linkedin.com/in/tyler-engar-57497013/recent-activity/all/" data-test-app-aware-link="">
+          <svg role="none" aria-hidden="true" class="artdeco-button__icon rtl-flip" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="arrow-right-small">
+<!---->    
+
+    <use href="#arrow-right-small" width="16" height="16"></use>
+</svg>
+
+          <span class="artdeco-button__text">
+            Show all posts
+          </span>
+        </a>
+      </footer>
+  
+  
+
+  
+<!---->        
+</section>
+
+<!---->  
+        
+        <section class="artdeco-card pv-profile-card break-words
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="experience" class="pv-profile-card__anchor">
+          </div>
+            
+          
+<!---->
+    <div class="GAXeUrsCOBqgOyrngLiVfzCADOoLn">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="pvs-header__title-container">
+              <h2 class="pvs-header__title
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="pvs-list__outer-container">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+            display-flex" target="_self" tabindex="-1" aria-hidden="true" href="https://www.linkedin.com/search/results/all/?keywords=Akerman+LLP">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+        <div class="EntityPhoto-square-3-ghost-company ivm-view-attr__ghost-entity  ">
+<!---->        </div>
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+      <div class="
+              display-flex flex-column full-width">
+        
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 t-bold">
+            <span aria-hidden="true"><!---->Partner<!----></span><span class="visually-hidden"><!---->Partner<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Akerman LLP · Full-time<!----></span><span class="visually-hidden"><!---->Akerman LLP · Full-time<!----></span>
+                </span>
+              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Jan 2022 - Present · 2 yrs 3 mos<!----></span><span class="visually-hidden"><!---->Jan 2022 - Present · 2 yrs 3 mos<!----></span>
+              </span>
+              <span class="t-14 t-normal t-black--light">
+                <span aria-hidden="true"><!---->Dallas, Texas, United States<!----></span><span class="visually-hidden"><!---->Dallas, Texas, United States<!----></span>
+              </span>
+          
+      </div>
+  
+
+<!---->
+<!---->
+        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/2871792/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C4E0BAQGCfxS58tYEPA/company-logo_100_100/0/1630577417475/lendup_logo?e=1717632000&amp;v=beta&amp;t=eYDILKfjwH-Vt9u3zkg8ctkUecuQt0SH59K738qb5LA" loading="lazy" height="48" alt="LendUp logo" id="ember55" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/2871792/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->LendUp<!----></span><span class="visually-hidden"><!---->LendUp<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->1 yr 5 mos<!----></span><span class="visually-hidden"><!---->1 yr 5 mos<!----></span>
+                </span>
+<!----><!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+      <span class="pvs-entity__path-node"></span>
+    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        
+        xbVLvUuHqnEwJyCaNjHsKgvBFKcEAqlBPzGzAvE
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+      <div class="
+            display-flex" tabindex="-1" aria-hidden="true">
+        
+<!---->        
+      </div>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/2871792/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Head Of Legal<!----></span><span class="visually-hidden"><!---->Head Of Legal<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+<!---->              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Sep 2021 - Mar 2022 · 7 mos<!----></span><span class="visually-hidden"><!---->Sep 2021 - Mar 2022 · 7 mos<!----></span>
+              </span>
+<!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            </li>
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+      <span class="pvs-entity__path-node"></span>
+    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+      <div class="
+            display-flex" tabindex="-1" aria-hidden="true">
+        
+<!---->        
+      </div>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/2871792/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Senior Product, Regulatory &amp; Corporate Counsel<!----></span><span class="visually-hidden"><!---->Senior Product, Regulatory &amp; Corporate Counsel<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+<!---->              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Nov 2020 - Sep 2021 · 11 mos<!----></span><span class="visually-hidden"><!---->Nov 2020 - Sep 2021 · 11 mos<!----></span>
+              </span>
+<!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+    <div class="pvs-list__outer-container">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="pvs-list__item--with-top-padding ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          
+      <div class="pv-shared-text-with-see-more full-width t-14 t-normal t-black display-flex align-items-center">
+        
+    <div class="MmEqYMvkgEWxQxqwTSnwwPnreyKQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+         full-width" style="-webkit-line-clamp:2;" tabindex="-1">
+
+        <span aria-hidden="true"><!---->Attorney<!----></span><span class="visually-hidden"><!---->Attorney<!----></span>
+
+<!---->    </div>
+  
+      </div>
+  
+      
+      </div>
+  
+    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/15863/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C560BAQGNHMdwm9a4TQ/company-logo_100_100/0/1631309449096?e=1717632000&amp;v=beta&amp;t=uwbrtdX7iX-vTvKnP8RQK38xfhXnFpwzk75TQhRebNg" loading="lazy" height="48" alt="Akerman LLP logo" id="ember56" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+      <div class="
+              display-flex flex-column full-width">
+        
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 t-bold">
+            <span aria-hidden="true"><!---->Partner<!----></span><span class="visually-hidden"><!---->Partner<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Akerman LLP<!----></span><span class="visually-hidden"><!---->Akerman LLP<!----></span>
+                </span>
+              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Nov 2010 - Oct 2020 · 10 yrs<!----></span><span class="visually-hidden"><!---->Nov 2010 - Oct 2020 · 10 yrs<!----></span>
+              </span>
+              <span class="t-14 t-normal t-black--light">
+                <span aria-hidden="true"><!---->Dallas, Texas<!----></span><span class="visually-hidden"><!---->Dallas, Texas<!----></span>
+              </span>
+          
+      </div>
+  
+
+<!---->
+<!---->
+        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/82548/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C560BAQEgCxlJKFZf4Q/company-logo_100_100/0/1658509189772/kightlinger__gray_llp_logo?e=1717632000&amp;v=beta&amp;t=gtf5JGfIJFFSdkv7R3VojCmUJp_kluG6z7uVWZv7O-w" loading="lazy" height="48" alt="Kightlinger &amp; Gray, LLP logo" id="ember57" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+      <div class="
+              display-flex flex-column full-width">
+        
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 t-bold">
+            <span aria-hidden="true"><!---->Litigation Attorney<!----></span><span class="visually-hidden"><!---->Litigation Attorney<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Kightlinger &amp; Gray, LLP<!----></span><span class="visually-hidden"><!---->Kightlinger &amp; Gray, LLP<!----></span>
+                </span>
+              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Jun 2009 - Nov 2010 · 1 yr 6 mos<!----></span><span class="visually-hidden"><!---->Jun 2009 - Nov 2010 · 1 yr 6 mos<!----></span>
+              </span>
+              <span class="t-14 t-normal t-black--light">
+                <span aria-hidden="true"><!---->Indianapolis, Indiana<!----></span><span class="visually-hidden"><!---->Indianapolis, Indiana<!----></span>
+              </span>
+          
+      </div>
+  
+
+<!---->
+<!---->
+        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/140881/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C4E0BAQF578Q4G3EYBA/company-logo_100_100/0/1631317339261?e=1717632000&amp;v=beta&amp;t=bVPWtZCEtTMLpgrWFUF-qYTrWP-0wEjdRrl4FpabhX0" loading="lazy" height="48" alt="Bamberger, Foreman, Oswald and Hahn, LLP logo" id="ember58" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+      <div class="
+              display-flex flex-column full-width">
+        
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 t-bold">
+            <span aria-hidden="true"><!---->Associate Attorney<!----></span><span class="visually-hidden"><!---->Associate Attorney<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Bamberger, Foreman, Oswald and Hahn, LLP<!----></span><span class="visually-hidden"><!---->Bamberger, Foreman, Oswald and Hahn, LLP<!----></span>
+                </span>
+              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->Aug 2006 - May 2009 · 2 yrs 10 mos<!----></span><span class="visually-hidden"><!---->Aug 2006 - May 2009 · 2 yrs 10 mos<!----></span>
+              </span>
+<!---->          
+      </div>
+  
+
+<!---->
+<!---->
+        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+<!---->        
+</section>
+
+<!---->  
+        
+        <section class="artdeco-card pv-profile-card break-words
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="education" class="pv-profile-card__anchor">
+          </div>
+            
+          
+<!---->
+    <div class="GAXeUrsCOBqgOyrngLiVfzCADOoLn">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="pvs-header__title-container">
+              <h2 class="pvs-header__title
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="pvs-list__outer-container">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/3325/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C560BAQFonK534Iq8-Q/company-logo_100_100/0/1631332394799?e=1717632000&amp;v=beta&amp;t=qGDG2POg-YzG7XamghZUvXcnyTUeDURRil1_8pgXBa4" loading="lazy" height="48" alt="Indiana University Bloomington logo" id="ember59" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/3325/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Indiana University Bloomington<!----></span><span class="visually-hidden"><!---->Indiana University Bloomington<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->Juris Doctorate, Law<!----></span><span class="visually-hidden"><!---->Juris Doctorate, Law<!----></span>
+                </span>
+              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->2003 - 2006<!----></span><span class="visually-hidden"><!---->2003 - 2006<!----></span>
+              </span>
+<!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+    <div class="
+        mv1
+        display-flex align-items-center">
+        
+      <div class="display-flex link-without-hover-visited">
+        
+<!---->            
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          
+      <div class="pv-shared-text-with-see-more full-width t-14 t-normal t-black display-flex align-items-center">
+        
+    <div class="MmEqYMvkgEWxQxqwTSnwwPnreyKQ
+        inline-show-more-text--is-collapsed
+        inline-show-more-text--is-collapsed-with-line-clamp
+        
+        
+         full-width" style="-webkit-line-clamp:2;" tabindex="-1">
+
+        <span aria-hidden="true"><!---->Activities and societies: Articles Editor, Indiana Law Journal; Research Fellow<!----></span><span class="visually-hidden"><!---->Activities and societies: Articles Editor, Indiana Law Journal; Research Fellow<!----></span>
+
+<!---->    </div>
+  
+      </div>
+  
+      
+      </div>
+  
+    </div>
+  
+        
+      </div>
+  
+
+<!---->    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/15251168/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C560BAQHOj4lIdQUuYA/company-logo_100_100/0/1630650497476/university_of_utah_logo?e=1717632000&amp;v=beta&amp;t=sxigtJA2gHnMdlSV2G3RSVI0dVEHSgkpPxLhbQJEm1M" loading="lazy" height="48" alt="University of Utah logo" id="ember60" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/15251168/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->University of Utah<!----></span><span class="visually-hidden"><!---->University of Utah<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+                <span class="t-14 t-normal">
+                  <span aria-hidden="true"><!---->BA, History, Spanish<!----></span><span class="visually-hidden"><!---->BA, History, Spanish<!----></span>
+                </span>
+              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->1999 - 2002<!----></span><span class="visually-hidden"><!---->1999 - 2002<!----></span>
+              </span>
+<!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+  
+<!---->        
+</section>
+
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+        <section class="artdeco-card pv-profile-card break-words
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="skills" class="pv-profile-card__anchor">
+          </div>
+            
+          
+<!---->
+    <div class="GAXeUrsCOBqgOyrngLiVfzCADOoLn">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="pvs-header__title-container">
+              <h2 class="pvs-header__title
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Skills<!----></span><span class="visually-hidden"><!---->Skills<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+    <div class="pvs-list__outer-container">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+      <div class="
+            display-flex" tabindex="-1" aria-hidden="true">
+        
+<!---->        
+      </div>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a data-field="skill_card_skill_topic" class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/search/results/all/?keywords=Product+Development&amp;origin=PROFILE_PAGE_SKILL_NAVIGATION">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Product Development<!----></span><span class="visually-hidden"><!---->Product Development<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+<!----><!----><!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!----><!----><!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+      <div class="
+            display-flex" tabindex="-1" aria-hidden="true">
+        
+<!---->        
+      </div>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a data-field="skill_card_skill_topic" class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/search/results/all/?keywords=Banking&amp;origin=PROFILE_PAGE_SKILL_NAVIGATION">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Banking<!----></span><span class="visually-hidden"><!---->Banking<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+<!----><!----><!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!----><!----><!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+        </ul>
+        <div class="pvs-list__footer-wrapper">
+          
+        <div class="">
+          
+      <div>
+        
+        <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center full-width align-items-center artdeco-button--fluid
+            
+            " target="_self" id="navigation-index-Show-all-10-skills" href="https://www.linkedin.com/in/tylerengar/details/skills?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAALP1igBtxUMzn-D9KspxK3PKD1hCFv_qy4">
+<!---->            <span class="pvs-navigation__text">
+              Show all 10 skills
+            </span>
+            <div class="pvs-navigation__icon">
+              <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="arrow-right-small" class="rtl-flip">
+<!---->    
+
+    <use href="#arrow-right-small" width="16" height="16"></use>
+</svg>
+
+            </div>
+        </a>
+  
+      </div>
+  
+        </div>
+  
+        </div>
+    </div>
+  
+  
+<!---->        
+</section>
+
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+<!---->
+<!---->  
+        
+        <section class="artdeco-card pv-profile-card break-words
+            
+            
+            mt2" tabindex="-1" data-view-name="profile-card">
+<!---->
+  
+          <div id="interests" class="pv-profile-card__anchor">
+          </div>
+            
+          
+<!---->
+    <div class="GAXeUrsCOBqgOyrngLiVfzCADOoLn">
+      <div class="pvs-header__top-container--no-stack">
+        <div class="pvs-header__left-container--stack">
+          <div class="pvs-header__title-container">
+              <h2 class="pvs-header__title
+                  text-heading-large">
+                <span aria-hidden="true"><!---->Interests<!----></span><span class="visually-hidden"><!---->Interests<!----></span>
+              </h2>
+<!----><!---->          </div>
+
+<!---->        </div>
+
+<!---->      </div>
+    </div>
+  
+  
+            
+          
+      <div id="ember93" class="artdeco-tabs artdeco-tabs--size-t-48 ember-view">
+          <div aria-multiselectable="false" id="ember94" class="artdeco-tablist ember-view" role="tablist">
+              <button tabindex="0" aria-selected="true" id="ember95" class="artdeco-tab active artdeco-tab--selected ember-view" role="tab" aria-controls="ember98">
+                <span aria-hidden="true"><!---->Companies<!----></span><span class="visually-hidden"><!---->Companies<!----></span>
+              </button>
+
+              <button tabindex="-1" aria-selected="false" id="ember96" class="artdeco-tab ember-view" role="tab" aria-controls="ember103">
+                <span aria-hidden="true"><!---->Groups<!----></span><span class="visually-hidden"><!---->Groups<!----></span>
+              </button>
+
+              <button tabindex="-1" aria-selected="false" id="ember97" class="artdeco-tab ember-view" role="tab" aria-controls="ember108">
+                <span aria-hidden="true"><!---->Schools<!----></span><span class="visually-hidden"><!---->Schools<!----></span>
+              </button>
+
+          
+</div>
+          <div tabindex="0" id="ember98" class="artdeco-tabpanel active ember-view" role="tabpanel" aria-labelledby="ember95">
+              
+          
+    <div class="pvs-list__outer-container">
+<!---->        <ul class="pvs-list
+            ph5 display-flex flex-row flex-wrap
+            
+            ">
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik pvs-list__item--two-column">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/3325/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C560BAQFonK534Iq8-Q/company-logo_100_100/0/1631332394799?e=1717632000&amp;v=beta&amp;t=qGDG2POg-YzG7XamghZUvXcnyTUeDURRil1_8pgXBa4" loading="lazy" height="48" alt="Indiana University Bloomington logo" id="ember99" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/3325/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Indiana University Bloomington<!----></span><span class="visually-hidden"><!---->Indiana University Bloomington<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+<!---->              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->419,041 followers<!----></span><span class="visually-hidden"><!---->419,041 followers<!----></span>
+              </span>
+<!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+        <div class="pv2">
+          
+    <button id="ember100" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+  
+        </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik pvs-list__item--two-column">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/4888/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C510BAQEVsCSmV6ss1Q/company-logo_100_100/0/1631343389738?e=1717632000&amp;v=beta&amp;t=NPdQjuV2Xq7RNVwLFBRrzdEe1rQSC0nEq3Qds7q4zP0" loading="lazy" height="48" alt="University of Utah - Employment logo" id="ember101" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/4888/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->University of Utah - Employment<!----></span><span class="visually-hidden"><!---->University of Utah - Employment<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+<!---->              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->133,864 followers<!----></span><span class="visually-hidden"><!---->133,864 followers<!----></span>
+              </span>
+<!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+        <div class="pv2">
+          
+    <button id="ember102" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+  
+        </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+        </ul>
+        <div class="pvs-list__footer-wrapper">
+          
+        <div class="">
+          
+      <div>
+        
+        <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center full-width align-items-center artdeco-button--fluid
+            
+            " target="_self" id="navigation-index-see-all-companies" href="https://www.linkedin.com/in/tylerengar/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAALP1igBtxUMzn-D9KspxK3PKD1hCFv_qy4&amp;tabIndex=0&amp;detailScreenTabIndex=0">
+<!---->            <span class="pvs-navigation__text">
+              Show all companies
+            </span>
+            <div class="pvs-navigation__icon">
+              <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="arrow-right-small" class="rtl-flip">
+<!---->    
+
+    <use href="#arrow-right-small" width="16" height="16"></use>
+</svg>
+
+            </div>
+        </a>
+  
+      </div>
+  
+        </div>
+  
+        </div>
+    </div>
+  
+  
+          </div>
+          <div tabindex="0" hidden="" id="ember103" class="artdeco-tabpanel artdeco-tabpanel--hidden ember-view" role="tabpanel" aria-labelledby="ember96">
+              
+          
+    <div class="pvs-list__outer-container">
+<!---->        <ul class="pvs-list
+            ph5 display-flex flex-row flex-wrap
+            
+            ">
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik pvs-list__item--two-column">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/groups/127198">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C4D07AQGt5zNwDa9-3A/group-logo_image-shrink_48x48/0/1631000555364?e=1710356400&amp;v=beta&amp;t=ZnZu-lRUhvKLccrpmW2JA9pk2YSf4QKKXFhVTi_xazA" loading="lazy" height="48" alt="Financial Crime Risk, Fraud and Security logo" id="ember104" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/groups/127198">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Financial Crime Risk, Fraud and Security<!----></span><span class="visually-hidden"><!---->Financial Crime Risk, Fraud and Security<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+<!---->              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->79,995 members<!----></span><span class="visually-hidden"><!---->79,995 members<!----></span>
+              </span>
+<!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+        <div class="pv2">
+          
+      
+      <button id="ember105" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    Join
+</span></button>
+  
+  
+        </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik pvs-list__item--two-column">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/groups/84846">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C5107AQGAmwIsmXf-Ww/group-logo_image-shrink_48x48/0/1631419585271?e=1710356400&amp;v=beta&amp;t=4u2OAtOpuk5ueAGrGnCtzDK4n2ZzHhuyr5ywIqQXBX8" loading="lazy" height="48" alt="Finance &amp; Banking, Fintech, Regtech Professionals Worldwide logo" id="ember106" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/groups/84846">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Finance &amp; Banking, Fintech, Regtech Professionals Worldwide<!----></span><span class="visually-hidden"><!---->Finance &amp; Banking, Fintech, Regtech Professionals Worldwide<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+<!---->              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->447,750 members<!----></span><span class="visually-hidden"><!---->447,750 members<!----></span>
+              </span>
+<!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+        <div class="pv2">
+          
+      
+      <button id="ember107" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button"><!---->
+<span class="artdeco-button__text">
+    Join
+</span></button>
+  
+  
+        </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+        </ul>
+        <div class="pvs-list__footer-wrapper">
+          
+        <div class="">
+          
+      <div>
+        
+        <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center full-width align-items-center artdeco-button--fluid
+            
+            " target="_self" id="navigation-index-see-all-groups" href="https://www.linkedin.com/in/tylerengar/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAALP1igBtxUMzn-D9KspxK3PKD1hCFv_qy4&amp;tabIndex=1&amp;detailScreenTabIndex=1">
+<!---->            <span class="pvs-navigation__text">
+              Show all groups
+            </span>
+            <div class="pvs-navigation__icon">
+              <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="arrow-right-small" class="rtl-flip">
+<!---->    
+
+    <use href="#arrow-right-small" width="16" height="16"></use>
+</svg>
+
+            </div>
+        </a>
+  
+      </div>
+  
+        </div>
+  
+        </div>
+    </div>
+  
+  
+          </div>
+          <div tabindex="0" hidden="" id="ember108" class="artdeco-tabpanel artdeco-tabpanel--hidden ember-view" role="tabpanel" aria-labelledby="ember97">
+              
+          
+    <div class="pvs-list__outer-container">
+<!---->        <ul class="pvs-list
+            ph5 display-flex flex-row flex-wrap
+            
+            ">
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik pvs-list__item--two-column">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="active_tab_schools_interests" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/15100293/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C4D0BAQFPtbrvdKvTOA/company-logo_100_100/0/1630560608451/full_stack_squad_logo?e=1717632000&amp;v=beta&amp;t=AwHcCq4DuXy3SrfwBRHwKencLLY2yrJVntgiFTivX7A" loading="lazy" height="48" alt="Full Stack Squad logo" id="ember109" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a data-field="active_tab_schools_interests" class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/school/15100293/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->Full Stack Squad<!----></span><span class="visually-hidden"><!---->Full Stack Squad<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+<!---->              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->17,376 followers<!----></span><span class="visually-hidden"><!---->17,376 followers<!----></span>
+              </span>
+<!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+        <div class="pv2">
+          
+    <button id="ember110" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+  
+        </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+            <li class="artdeco-list__item NfxpRtdaKTgUmEMSKsVwjXtKijSPxczmAzcHjYik pvs-list__item--two-column">
+              
+          
+<!---->    <div class="pjXZMOJfPeGpfsLHhTlMUITRIQJdRjEmohdVQ
+        pvs-entity--padded EgTxmcagSysPQVfLnrTAhTpVLkaefE
+        
+        
+        " data-view-name="profile-component-entity">
+      <div>
+        
+        <a data-field="active_tab_schools_interests" class="optional-action-target-wrapper 
+            display-flex" target="_self" href="https://www.linkedin.com/company/15251168/">
+            
+    <div class="ivm-image-view-model  pvs-entity__image ">
+        
+    <div class="ivm-view-attr__img-wrapper
+        display-flex">
+<!---->          <img width="48" src="https://media.licdn.com/dms/image/C560BAQHOj4lIdQUuYA/company-logo_100_100/0/1630650497476/university_of_utah_logo?e=1717632000&amp;v=beta&amp;t=sxigtJA2gHnMdlSV2G3RSVI0dVEHSgkpPxLhbQJEm1M" loading="lazy" height="48" alt="University of Utah logo" id="ember111" class="ivm-view-attr__img--centered EntityPhoto-square-3   evi-image lazy-image ember-view">
+    </div>
+  
+          </div>
+  
+        </a>
+  
+      </div>
+
+      <div class="display-flex flex-column full-width align-self-center">
+        <div class="display-flex flex-row justify-space-between">
+          
+        <a data-field="active_tab_schools_interests" class="optional-action-target-wrapper 
+              display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/school/15251168/">
+            <div class="display-flex flex-wrap align-items-center full-height">
+                
+    <div class="display-flex ">
+      
+      <div class="
+          display-flex full-width">
+        
+          <div class="display-flex align-items-center
+              mr1 hoverable-link-text t-bold">
+            <span aria-hidden="true"><!---->University of Utah<!----></span><span class="visually-hidden"><!---->University of Utah<!----></span>
+          </div>
+      
+      </div>
+  
+    </div>
+  
+<!----><!----><!---->            </div>
+<!---->              <span class="t-14 t-normal t-black--light">
+                <span class="pvs-entity__caption-wrapper" aria-hidden="true"><!---->248,367 followers<!----></span><span class="visually-hidden"><!---->248,367 followers<!----></span>
+              </span>
+<!---->          </a>
+  
+
+<!---->
+<!---->
+        </div>
+
+          
+    <div class="pvs-list__outer-container pvs-entity__sub-components">
+<!---->        <ul class="pvs-list
+            
+            
+            ">
+            <li class="ixIlBnPnDymGsFnoTAsnKAyZFxdhbzdRKlHs">
+              
+          
+        <div class="pv2">
+          
+    <button id="ember112" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">        <svg role="none" aria-hidden="true" class="artdeco-button__icon " xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="add-small">
+<!---->    
+
+    <use href="#add-small" width="16" height="16"></use>
+</svg>
+
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+  
+        </div>
+  
+  
+            </li>
+        </ul>
+<!---->    </div>
+  
+      </div>
+    </div>
+  
+  
+            </li>
+        </ul>
+        <div class="pvs-list__footer-wrapper">
+          
+        <div class="">
+          
+      <div>
+        
+        <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--standard artdeco-button--2 artdeco-button--muted 
+            inline-flex justify-center full-width align-items-center artdeco-button--fluid
+            
+            " target="_self" id="navigation-index-see-all-schools" href="https://www.linkedin.com/in/tylerengar/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAALP1igBtxUMzn-D9KspxK3PKD1hCFv_qy4&amp;tabIndex=2&amp;detailScreenTabIndex=2">
+<!---->            <span class="pvs-navigation__text">
+              Show all schools
+            </span>
+            <div class="pvs-navigation__icon">
+              <svg role="none" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" data-supported-dps="16x16" data-test-icon="arrow-right-small" class="rtl-flip">
+<!---->    
+
+    <use href="#arrow-right-small" width="16" height="16"></use>
+</svg>
+
+            </div>
+        </a>
+  
+      </div>
+  
+        </div>
+  
+        </div>
+    </div>
+  
+  
+          </div>
+      </div>
+  
+  
+<!---->        
+</section>
+
+<!---->  
+        
+<!---->
+<!---->  
+  
+      
+          

@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "eventemitter3": "^5.0.1",
+    "fetch": "^1.1.0",
+    "puppeteer": "^22.6.0",
+    "user-agents": "^1.1.152"
+  }
+}

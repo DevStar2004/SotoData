@@ -1,0 +1,9 @@
+Add autocomplete to practice areas
+
+Fix names
+Goldberg Segalla
+Shumaker, Loop & Kendrick, LLP
+Thompson Hine LLP
+Pryor Cashman LLP
+
+Proxy image output with CURL
